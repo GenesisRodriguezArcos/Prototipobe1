@@ -1,0 +1,13 @@
+pe\edu\vallegrande\project\rest\ProductRest.class
+pe\edu\vallegrande\project\service\SupplierService.class
+pe\edu\vallegrande\project\rest\SupplierRest.class
+pe\edu\vallegrande\project\config\JasperXmlFixConfig.class
+pe\edu\vallegrande\project\repository\ProductRepository.class
+pe\edu\vallegrande\project\repository\SupplierRepository.class
+pe\edu\vallegrande\project\model\Product.class
+pe\edu\vallegrande\project\ProjectApplication.class
+pe\edu\vallegrande\project\model\Supplier.class
+pe\edu\vallegrande\project\service\impl\ProductServiceImpl.class
+pe\edu\vallegrande\project\service\ProductService.class
+pe\edu\vallegrande\project\service\impl\SupplierServiceImpl.class
+pe\edu\vallegrande\project\config\WebConfig.class

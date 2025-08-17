@@ -1,0 +1,12 @@
+package pe.edu.vallegrande.project.repository;
+
+import pe.edu.vallegrande.project.model.Supplier;
+import org.springframework.data.jpa.repository.JpaRepository;
+import java.util.List;
+
+public interface SupplierRepository extends JpaRepository<Supplier, Integer> {
+    List<Supplier> findByState(String state);
+}
+
+
+
